@@ -23,7 +23,7 @@
 ---
 
 ## **Screenshots**
-<img width="300" height="300" alt="1" src="https://github.com/user-attachments/assets/aa60cb7b-a916-44dd-9acb-e462c3f8fc72" />
+<img width="300" height="500" alt="1" src="https://github.com/user-attachments/assets/aa60cb7b-a916-44dd-9acb-e462c3f8fc72" />
 
 
 ---
