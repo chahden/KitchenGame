@@ -24,7 +24,7 @@
 
 ## **Screenshots**
 
-_Add screenshots of the prototype UI here to showcase the design and functionality._
+<img width="1587" height="2245" alt="5" src="https://github.com/user-attachments/assets/62cc4ef7-66fe-43b0-bf05-d26d0d120434" />
 
 ---
 
