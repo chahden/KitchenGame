@@ -23,7 +23,15 @@
 ---
 
 ## **Screenshots**
-<img width="300" height="500" alt="1" src="https://github.com/user-attachments/assets/aa60cb7b-a916-44dd-9acb-e462c3f8fc72" />
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/aa60cb7b-a916-44dd-9acb-e462c3f8fc72" width="150" height="250" alt="1" />
+  <img src="https://github.com/user-attachments/assets/0fbab782-f3c6-4e31-9cbe-ac70e12680a5" width="150" height="250" alt="2" />
+  <img src="https://github.com/user-attachments/assets/1eb11f9c-5a79-484c-be41-96753fb9a089" width="150" height="250" alt="3" />
+  <img src="https://github.com/user-attachments/assets/544311cf-3e81-469a-b372-314547bc4658" width="150" height="250" alt="4" />
+  <img src="https://github.com/user-attachments/assets/ebf86d92-e7c5-4359-a8a6-6a1a699b454e" width="150" height="250" alt="5" />
+  <img src="https://github.com/user-attachments/assets/d95d7bc4-e7c9-483d-a729-816f991e9841" width="150" height="250" alt="6" />
+  <img src="https://github.com/user-attachments/assets/e9931bab-7a56-4e98-b95c-333566603cb0" width="150" height="250" alt="7" />
+</div>
 
 
 ---
