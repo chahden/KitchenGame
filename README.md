@@ -24,8 +24,8 @@
 
 ## **Screenshots**
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/ce0153e6-e058-4b5a-8638-5608db2a2ccf" width="200" height="350" alt="screenshot1" />
-  <img src="https://github.com/user-attachments/assets/727a021c-9393-4af8-a01f-58cf668c6beb" width="200" height="350" alt="screenshot2" />
+  <img src="https://github.com/user-attachments/assets/ce0153e6-e058-4b5a-8638-5608db2a2ccf" width="150" height="250" alt="screenshot1" />
+  <img src="https://github.com/user-attachments/assets/727a021c-9393-4af8-a01f-58cf668c6beb" width="150" height="250" alt="screenshot2" />
   <img src="https://github.com/user-attachments/assets/7b4a6682-bb3d-44ae-8930-1749e3afdf05" width="150" height="250" alt="screenshot3" />
   <img src="https://github.com/user-attachments/assets/88a41692-f2e9-4d4f-b9a0-3c4014d6e7cc" width="150" height="250" alt="screenshot4" />
   <img src="https://github.com/user-attachments/assets/61d7f5f9-69ea-427f-b6c7-562941601b8a" width="150" height="250" alt="screenshot5" />
